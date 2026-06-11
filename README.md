@@ -1,39 +1,18 @@
- # Plant Disease Detection using CNN
+# Plant Disease Detection using CNN
 
-## Project Overview
+## Overview
+This project uses Convolutional Neural Networks (CNN) to identify plant diseases from leaf images.
 
-This project uses Convolutional Neural Networks (CNN) to identify plant diseases from leaf images. The model learns patterns from image data and classifies different plant health conditions.
+## Technologies
+- Python
+- TensorFlow
+- Keras
+- OpenCV
+- NumPy
+- Matplotlib
 
-## Features
-
-* Image Preprocessing
-* Data Augmentation
-* CNN Model Training
-* Disease Classification
-* Performance Evaluation
-
-## Technologies Used
-
-* Python
-* TensorFlow
-* Keras
-* OpenCV
-* NumPy
-* Matplotlib
-
-## Machine Learning Concepts
-
-* Deep Learning
-* Computer Vision
-* Convolutional Neural Networks (CNN)
-* Image Classification
-
-## Future Improvements
-
-* Real-time disease detection
-* Mobile application integration
-* Multi-crop disease classification
-
-## Author
-
-Srividya Kukkala
+## Concepts
+- Deep Learning
+- Computer Vision
+- CNN
+- Image Classification
